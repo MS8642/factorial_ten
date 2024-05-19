@@ -1,4 +1,4 @@
-# factorial_ten
+# factorial_ten (Python)
 A simple project that performs factorial of ten.
 
 fact_num = 10
